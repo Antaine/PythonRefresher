@@ -3,7 +3,7 @@
 import sys
 print (sys.path)
 
-#from pygame.locals import *
-#import pygame
+from pygame.locals import *
+import pygame
 
 print("Test")
